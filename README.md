@@ -3,21 +3,21 @@
 Note: Don't just merge this into your module, examine first as it may contain undesired modifications.
 ie: Additional property uses the cost table for new ips and not param1 as is default.
 
-Works with vs align/race	
+Works with vs align/race
 AB (pos, neg)	Can select which hand
 Concealment	Can select distance
-Visibility (invisibility/sanctuary/greater sanc)	
-Skill (pos and neg)	
+Visibility (invisibility/sanctuary/greater sanc)
+Skill (pos and neg)
 AC (pos, neg)	Able to select AC type, works with vs Dmg type too
 Damage bonus (pos, neg)	Not yet implemented
 Saving throw neg/pos	Works with vs saves. Able to select a major and minor on the same item property
 Immunities	much increased list, also supports a % in cost table (needs NWNX support that doesn't yet exist)
 
-Misc (movement speed modification, extra/lower attacks, level drain, spell resistance decrease)	
-Other (ultravision, slow, immobilze, see invisiblity, blindness, deafness, silence, cutsceneghost)	
+Misc (movement speed modification, extra/lower attacks, level drain, spell resistance decrease)
+Other (ultravision, slow, immobilze, see invisiblity, blindness, deafness, silence, cutsceneghost)
 Spell failure	able to select school, works with both divine and arcane
 Regenerate	Able to select interval
-Damage shields	
+Damage shields
 Miss chance	Able to select distance
 Spell immunity	able to select school and up to what circle
 VfX	Don't see your favorite vfx? modify the 2da  to add it
